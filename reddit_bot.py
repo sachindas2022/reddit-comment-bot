@@ -21,6 +21,7 @@ def comments_replied_to():
 
 def run_bot(r, comments_replied_to):
 	print ("Searching last 1,000 comments")
+	print("This Is the Init Mode For the Bot")
 
 	for comment in r.subreddit('test').comments(limit=1000):
 		if "sample user comment" in comment.body and comment.id not in comments_replied_to and comment.author != r.user.me():
