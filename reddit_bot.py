@@ -30,6 +30,7 @@ def run_bot(r, comments_replied_to):
 			print ("Replied to comment " + comment.id)
 
 			comments_replied_to.append(comment.id)
+			comments_replied_to.append(super)
 
 			with open ("comments_replied_to.txt", "a") as f:
 				f.write(comment.id + "\n")
