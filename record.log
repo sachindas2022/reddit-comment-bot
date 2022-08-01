@@ -1,0 +1,447 @@
+2022-08-01 11:56:00,102 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 11:56:00,137 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 11:56:27,610 INFO werkzeug MainThread :  * Running on http://localhost:5000 (Press CTRL+C to quit)
+2022-08-01 11:56:27,616 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 11:56:28,800 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 11:56:28,820 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 11:57:10,267 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\again_flas.py', reloading
+2022-08-01 11:57:10,385 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 11:57:11,362 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 11:57:11,378 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 11:57:14,735 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 11:57:14,735 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 11:57:15,392 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 11:57:15,392 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 11:58:07,294 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 11:58:07,294 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 11:58:07,982 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 11:58:07,982 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 11:58:19,135 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 11:58:19] "[33mGET / HTTP/1.1[0m" 404 -
+2022-08-01 11:58:19,442 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 11:58:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-08-01 11:59:07,457 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 11:59:07,461 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 11:59:08,131 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 11:59:08,143 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 11:59:12,334 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 11:59:12,337 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 11:59:12,934 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 11:59:12,944 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 11:59:16,765 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 11:59:16] "[33mGET / HTTP/1.1[0m" 404 -
+2022-08-01 11:59:17,557 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 11:59:17] "[33mGET / HTTP/1.1[0m" 404 -
+2022-08-01 12:00:00,722 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\again_flas.py', reloading
+2022-08-01 12:00:00,798 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:01:34,428 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:01:34,428 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:01:36,516 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:01:36,555 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:04:08,395 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:04:08,395 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:04:09,185 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:04:09,201 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:04:24,277 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:04:24] "[33mGET / HTTP/1.1[0m" 404 -
+2022-08-01 12:04:42,958 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:04:42,958 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:04:43,599 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:04:43,615 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:04:55,468 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:04:55,469 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:04:55,470 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:04:55] "GET /blogs HTTP/1.1" 200 -
+2022-08-01 12:05:08,298 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:05:08] "[33mGET /blogss HTTP/1.1[0m" 404 -
+2022-08-01 12:06:03,959 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 12:06:03,964 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:06:04,663 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:06:04,675 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:06:10,733 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 12:06:10,738 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:06:11,606 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:06:11,648 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:06:37,063 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:06:37,064 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:06:37,065 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:06:37] "GET /blogs HTTP/1.1" 200 -
+2022-08-01 12:08:17,203 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 12:08:17,218 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:08:17,876 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:08:17,891 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:15:16,219 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 12:15:16,234 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:15:16,775 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:15:16,790 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:15:25,148 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:15:25,148 DEBUG again_flas Thread-2 (process_request_thread) : Debug level log
+2022-08-01 12:15:25,149 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:15:25,149 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:15:25] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:18:35,344 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multi.py', reloading
+2022-08-01 12:18:35,395 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:18:36,234 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:18:36,247 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:18:37,140 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:18:37,141 DEBUG again_flas Thread-2 (process_request_thread) : Debug level log
+2022-08-01 12:18:37,141 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:18:37,142 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:18:37] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:18:37,655 INFO again_flas Thread-3 (process_request_thread) : Info level log
+2022-08-01 12:18:37,655 DEBUG again_flas Thread-3 (process_request_thread) : Debug level log
+2022-08-01 12:18:37,655 WARNING again_flas Thread-3 (process_request_thread) : Warning level log
+2022-08-01 12:18:37,656 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:18:37] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:19:47,686 INFO again_flas Thread-5 (process_request_thread) : Info level log
+2022-08-01 12:19:47,686 DEBUG again_flas Thread-5 (process_request_thread) : Debug level log
+2022-08-01 12:19:47,686 WARNING again_flas Thread-5 (process_request_thread) : Warning level log
+2022-08-01 12:19:47,687 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:19:47] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:19:49,273 INFO again_flas Thread-6 (process_request_thread) : Info level log
+2022-08-01 12:19:49,274 DEBUG again_flas Thread-6 (process_request_thread) : Debug level log
+2022-08-01 12:19:49,274 WARNING again_flas Thread-6 (process_request_thread) : Warning level log
+2022-08-01 12:19:49,274 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:19:49] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:19:49,807 INFO again_flas Thread-7 (process_request_thread) : Info level log
+2022-08-01 12:19:49,807 DEBUG again_flas Thread-7 (process_request_thread) : Debug level log
+2022-08-01 12:19:49,807 WARNING again_flas Thread-7 (process_request_thread) : Warning level log
+2022-08-01 12:19:49,808 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:19:49] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:19:50,117 INFO again_flas Thread-8 (process_request_thread) : Info level log
+2022-08-01 12:19:50,117 DEBUG again_flas Thread-8 (process_request_thread) : Debug level log
+2022-08-01 12:19:50,117 WARNING again_flas Thread-8 (process_request_thread) : Warning level log
+2022-08-01 12:19:50,117 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:19:50] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:19:50,262 INFO again_flas Thread-9 (process_request_thread) : Info level log
+2022-08-01 12:19:50,262 DEBUG again_flas Thread-9 (process_request_thread) : Debug level log
+2022-08-01 12:19:50,262 WARNING again_flas Thread-9 (process_request_thread) : Warning level log
+2022-08-01 12:19:50,263 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:19:50] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:19:50,568 INFO again_flas Thread-10 (process_request_thread) : Info level log
+2022-08-01 12:19:50,568 DEBUG again_flas Thread-10 (process_request_thread) : Debug level log
+2022-08-01 12:19:50,568 WARNING again_flas Thread-10 (process_request_thread) : Warning level log
+2022-08-01 12:19:50,568 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:19:50] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:20:12,374 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multi.py', reloading
+2022-08-01 12:20:12,444 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:20:13,226 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:20:13,242 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:21:16,001 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multi.py', reloading
+2022-08-01 12:21:16,056 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:21:16,791 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:21:16,807 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:24:30,943 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:24:31,006 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:24:31,647 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:24:31,663 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:24:58,564 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:24:58,626 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:24:59,252 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:24:59,268 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:25:26,985 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:25:27,079 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:25:27,947 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:25:27,962 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:25:49,203 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:25:49,204 DEBUG again_flas Thread-2 (process_request_thread) : Debug level log
+2022-08-01 12:25:49,204 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:25:49,206 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:25:49] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:25:49,976 INFO again_flas Thread-3 (process_request_thread) : Info level log
+2022-08-01 12:25:49,976 DEBUG again_flas Thread-3 (process_request_thread) : Debug level log
+2022-08-01 12:25:49,976 WARNING again_flas Thread-3 (process_request_thread) : Warning level log
+2022-08-01 12:25:49,977 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:25:49] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:26:02,053 INFO again_flas Thread-4 (process_request_thread) : Info level log
+2022-08-01 12:26:02,053 DEBUG again_flas Thread-4 (process_request_thread) : Debug level log
+2022-08-01 12:26:02,053 WARNING again_flas Thread-4 (process_request_thread) : Warning level log
+2022-08-01 12:26:02,054 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:26:02] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:26:02,360 INFO again_flas Thread-5 (process_request_thread) : Info level log
+2022-08-01 12:26:02,361 DEBUG again_flas Thread-5 (process_request_thread) : Debug level log
+2022-08-01 12:26:02,361 WARNING again_flas Thread-5 (process_request_thread) : Warning level log
+2022-08-01 12:26:02,361 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:26:02] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:26:02,584 INFO again_flas Thread-6 (process_request_thread) : Info level log
+2022-08-01 12:26:02,584 DEBUG again_flas Thread-6 (process_request_thread) : Debug level log
+2022-08-01 12:26:02,584 WARNING again_flas Thread-6 (process_request_thread) : Warning level log
+2022-08-01 12:26:02,585 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:26:02] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:27:15,230 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:27:15,331 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:27:15,691 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:27:15,691 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:27:16,051 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:27:16,066 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:27:16,411 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:27:16,426 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:27:31,429 INFO multiserver Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:27:31,429 WARNING multiserver Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:27:31,429 DEBUG multiserver Thread-2 (process_request_thread) : Debug level logs
+2022-08-01 12:27:31,430 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:31] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:32,221 INFO multiserver Thread-3 (process_request_thread) : Info level log
+2022-08-01 12:27:32,221 WARNING multiserver Thread-3 (process_request_thread) : Warning level log
+2022-08-01 12:27:32,222 DEBUG multiserver Thread-3 (process_request_thread) : Debug level logs
+2022-08-01 12:27:32,223 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:32] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:32,317 INFO multiserver Thread-4 (process_request_thread) : Info level log
+2022-08-01 12:27:32,317 WARNING multiserver Thread-4 (process_request_thread) : Warning level log
+2022-08-01 12:27:32,318 DEBUG multiserver Thread-4 (process_request_thread) : Debug level logs
+2022-08-01 12:27:32,319 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:32] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:32,496 INFO multiserver Thread-5 (process_request_thread) : Info level log
+2022-08-01 12:27:32,496 WARNING multiserver Thread-5 (process_request_thread) : Warning level log
+2022-08-01 12:27:32,496 DEBUG multiserver Thread-5 (process_request_thread) : Debug level logs
+2022-08-01 12:27:32,497 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:32] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:32,675 INFO multiserver Thread-6 (process_request_thread) : Info level log
+2022-08-01 12:27:32,675 WARNING multiserver Thread-6 (process_request_thread) : Warning level log
+2022-08-01 12:27:32,675 DEBUG multiserver Thread-6 (process_request_thread) : Debug level logs
+2022-08-01 12:27:32,676 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:32] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:32,851 INFO multiserver Thread-7 (process_request_thread) : Info level log
+2022-08-01 12:27:32,851 WARNING multiserver Thread-7 (process_request_thread) : Warning level log
+2022-08-01 12:27:32,851 DEBUG multiserver Thread-7 (process_request_thread) : Debug level logs
+2022-08-01 12:27:32,852 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:32] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:33,088 INFO multiserver Thread-8 (process_request_thread) : Info level log
+2022-08-01 12:27:33,089 WARNING multiserver Thread-8 (process_request_thread) : Warning level log
+2022-08-01 12:27:33,089 DEBUG multiserver Thread-8 (process_request_thread) : Debug level logs
+2022-08-01 12:27:33,089 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:33] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:33,570 INFO multiserver Thread-9 (process_request_thread) : Info level log
+2022-08-01 12:27:33,570 WARNING multiserver Thread-9 (process_request_thread) : Warning level log
+2022-08-01 12:27:33,570 DEBUG multiserver Thread-9 (process_request_thread) : Debug level logs
+2022-08-01 12:27:33,571 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:33] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:33,670 INFO multiserver Thread-10 (process_request_thread) : Info level log
+2022-08-01 12:27:33,671 WARNING multiserver Thread-10 (process_request_thread) : Warning level log
+2022-08-01 12:27:33,671 DEBUG multiserver Thread-10 (process_request_thread) : Debug level logs
+2022-08-01 12:27:33,671 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:33] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:27:33,920 INFO multiserver Thread-11 (process_request_thread) : Info level log
+2022-08-01 12:27:33,920 WARNING multiserver Thread-11 (process_request_thread) : Warning level log
+2022-08-01 12:27:33,920 DEBUG multiserver Thread-11 (process_request_thread) : Debug level logs
+2022-08-01 12:27:33,920 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:27:33] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:28:39,757 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:28:39,758 DEBUG again_flas Thread-2 (process_request_thread) : Debug level log
+2022-08-01 12:28:39,758 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:28:39,758 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:28:39] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:28:40,173 INFO again_flas Thread-3 (process_request_thread) : Info level log
+2022-08-01 12:28:40,174 DEBUG again_flas Thread-3 (process_request_thread) : Debug level log
+2022-08-01 12:28:40,174 WARNING again_flas Thread-3 (process_request_thread) : Warning level log
+2022-08-01 12:28:40,174 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:28:40] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:28:40,353 INFO again_flas Thread-4 (process_request_thread) : Info level log
+2022-08-01 12:28:40,354 DEBUG again_flas Thread-4 (process_request_thread) : Debug level log
+2022-08-01 12:28:40,354 WARNING again_flas Thread-4 (process_request_thread) : Warning level log
+2022-08-01 12:28:40,354 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:28:40] "GET /home HTTP/1.1" 200 -
+2022-08-01 12:28:43,758 INFO multiserver Thread-13 (process_request_thread) : Info level log
+2022-08-01 12:28:43,759 WARNING multiserver Thread-13 (process_request_thread) : Warning level log
+2022-08-01 12:28:43,759 DEBUG multiserver Thread-13 (process_request_thread) : Debug level logs
+2022-08-01 12:28:43,759 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:28:43] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:28:44,448 INFO multiserver Thread-14 (process_request_thread) : Info level log
+2022-08-01 12:28:44,448 WARNING multiserver Thread-14 (process_request_thread) : Warning level log
+2022-08-01 12:28:44,448 DEBUG multiserver Thread-14 (process_request_thread) : Debug level logs
+2022-08-01 12:28:44,449 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:28:44] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:28:44,630 INFO multiserver Thread-15 (process_request_thread) : Info level log
+2022-08-01 12:28:44,630 WARNING multiserver Thread-15 (process_request_thread) : Warning level log
+2022-08-01 12:28:44,630 DEBUG multiserver Thread-15 (process_request_thread) : Debug level logs
+2022-08-01 12:28:44,631 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:28:44] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:38:14,092 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:38:14,155 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:38:14,170 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:38:14,272 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:38:15,282 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:38:15,306 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:38:15,486 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:38:15,501 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:38:26,261 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:38:26,347 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:38:26,704 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:38:26,780 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:38:27,353 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:38:27,369 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:38:27,505 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:38:27,505 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:39:02,441 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:39:02,504 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:39:03,013 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:39:03,168 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:39:03,901 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:39:03,917 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:39:04,766 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:39:04,785 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:40:11,355 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:40:11,502 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:40:12,029 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:40:12,138 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:40:12,240 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:40:12,240 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:40:56,506 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:40:56,603 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:40:57,392 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:40:57,408 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:41:59,378 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:41:59,472 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:41:59,692 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:41:59,692 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:42:00,100 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:42:00,116 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:42:00,460 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:42:00,460 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:42:07,037 WARNING rollbar Thread-2 (process_request_thread) : pyrollbar: No access_token provided. Please configure by calling rollbar.init() with your access token.
+2022-08-01 12:42:07,037 INFO multiserver Thread-2 (process_request_thread) : Info level log
+2022-08-01 12:42:07,038 WARNING multiserver Thread-2 (process_request_thread) : Warning level log
+2022-08-01 12:42:07,038 DEBUG multiserver Thread-2 (process_request_thread) : Debug level logs
+2022-08-01 12:42:07,039 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:07] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:42:07,613 INFO multiserver Thread-3 (process_request_thread) : Info level log
+2022-08-01 12:42:07,614 WARNING multiserver Thread-3 (process_request_thread) : Warning level log
+2022-08-01 12:42:07,614 DEBUG multiserver Thread-3 (process_request_thread) : Debug level logs
+2022-08-01 12:42:07,614 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:07] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:42:07,720 INFO multiserver Thread-4 (process_request_thread) : Info level log
+2022-08-01 12:42:07,721 WARNING multiserver Thread-4 (process_request_thread) : Warning level log
+2022-08-01 12:42:07,721 DEBUG multiserver Thread-4 (process_request_thread) : Debug level logs
+2022-08-01 12:42:07,722 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:07] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:42:07,928 INFO multiserver Thread-5 (process_request_thread) : Info level log
+2022-08-01 12:42:07,928 WARNING multiserver Thread-5 (process_request_thread) : Warning level log
+2022-08-01 12:42:07,928 DEBUG multiserver Thread-5 (process_request_thread) : Debug level logs
+2022-08-01 12:42:07,928 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:07] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:42:08,157 INFO multiserver Thread-6 (process_request_thread) : Info level log
+2022-08-01 12:42:08,157 WARNING multiserver Thread-6 (process_request_thread) : Warning level log
+2022-08-01 12:42:08,157 DEBUG multiserver Thread-6 (process_request_thread) : Debug level logs
+2022-08-01 12:42:08,157 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:08] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:42:08,433 INFO multiserver Thread-7 (process_request_thread) : Info level log
+2022-08-01 12:42:08,433 WARNING multiserver Thread-7 (process_request_thread) : Warning level log
+2022-08-01 12:42:08,434 DEBUG multiserver Thread-7 (process_request_thread) : Debug level logs
+2022-08-01 12:42:08,434 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:08] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:42:08,612 INFO multiserver Thread-8 (process_request_thread) : Info level log
+2022-08-01 12:42:08,613 WARNING multiserver Thread-8 (process_request_thread) : Warning level log
+2022-08-01 12:42:08,613 DEBUG multiserver Thread-8 (process_request_thread) : Debug level logs
+2022-08-01 12:42:08,613 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:08] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:42:25,191 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:42:25] "[33mGET /rollbar HTTP/1.1[0m" 404 -
+2022-08-01 12:42:55,919 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:42:56,005 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:42:56,206 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:42:56,327 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:42:56,907 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:42:56,919 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:44:45,105 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:44:45,108 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:44:45,150 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:44:45,214 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:44:45,870 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:44:45,882 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:44:45,981 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:44:45,991 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:44:46,041 WARNING rollbar Thread-2 (process_request_thread) : pyrollbar: No access_token provided. Please configure by calling rollbar.init() with your access token.
+2022-08-01 12:44:46,042 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:44:46] "[33mGET /roll HTTP/1.1[0m" 404 -
+2022-08-01 12:44:58,304 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:44:58,328 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:45:01,258 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:45:01,286 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:45:01,720 WARNING rollbar Thread-6 (process_request_thread) : pyrollbar: No access_token provided. Please configure by calling rollbar.init() with your access token.
+2022-08-01 12:45:01,723 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:45:01] "[33mGET /roll HTTP/1.1[0m" 404 -
+2022-08-01 12:45:04,557 INFO multiserver Thread-7 (process_request_thread) : Info level log
+2022-08-01 12:45:04,558 WARNING multiserver Thread-7 (process_request_thread) : Warning level log
+2022-08-01 12:45:04,559 DEBUG multiserver Thread-7 (process_request_thread) : Debug level logs
+2022-08-01 12:45:04,561 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:45:04] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:45:05,692 INFO multiserver Thread-8 (process_request_thread) : Info level log
+2022-08-01 12:45:05,692 WARNING multiserver Thread-8 (process_request_thread) : Warning level log
+2022-08-01 12:45:05,692 DEBUG multiserver Thread-8 (process_request_thread) : Debug level logs
+2022-08-01 12:45:05,693 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:45:05] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:45:05,817 INFO multiserver Thread-9 (process_request_thread) : Info level log
+2022-08-01 12:45:05,818 WARNING multiserver Thread-9 (process_request_thread) : Warning level log
+2022-08-01 12:45:05,818 DEBUG multiserver Thread-9 (process_request_thread) : Debug level logs
+2022-08-01 12:45:05,819 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:45:05] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:45:05,990 INFO multiserver Thread-10 (process_request_thread) : Info level log
+2022-08-01 12:45:05,990 WARNING multiserver Thread-10 (process_request_thread) : Warning level log
+2022-08-01 12:45:05,991 DEBUG multiserver Thread-10 (process_request_thread) : Debug level logs
+2022-08-01 12:45:05,991 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:45:05] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:45:06,243 INFO multiserver Thread-11 (process_request_thread) : Info level log
+2022-08-01 12:45:06,244 WARNING multiserver Thread-11 (process_request_thread) : Warning level log
+2022-08-01 12:45:06,245 DEBUG multiserver Thread-11 (process_request_thread) : Debug level logs
+2022-08-01 12:45:06,247 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 12:45:06] "GET /server HTTP/1.1" 200 -
+2022-08-01 12:45:31,574 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:45:31,624 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:45:31,875 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:45:31,999 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:45:32,423 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:45:32,437 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:45:34,397 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:45:34,424 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:54:14,603 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:54:14,710 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:54:15,357 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 12:54:15,501 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:54:15,829 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:54:15,845 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:54:19,057 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:54:19,087 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 12:55:10,946 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 12:55:10,951 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 12:55:11,912 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 12:55:11,921 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:19:34,077 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 13:19:34,147 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 13:19:34,322 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 13:19:34,437 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 13:19:35,266 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 13:19:35,278 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:19:35,583 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 13:19:35,593 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:19:35,650 INFO multiserver Thread-2 (process_request_thread) : Info level log
+2022-08-01 13:19:35,650 WARNING multiserver Thread-2 (process_request_thread) : Warnin g level log
+2022-08-01 13:19:35,650 DEBUG multiserver Thread-2 (process_request_thread) : Debug level logs
+2022-08-01 13:19:35,651 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:19:35] "GET /server HTTP/1.1" 200 -
+2022-08-01 13:19:38,842 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:19:38] "[33mGET /roll HTTP/1.1[0m" 404 -
+2022-08-01 13:19:39,823 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:19:39] "[33mGET /roll HTTP/1.1[0m" 404 -
+2022-08-01 13:19:48,586 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:19:48] "[33mGET /blogss HTTP/1.1[0m" 404 -
+2022-08-01 13:19:53,389 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:19:53] "[33mGET /blogs HTTP/1.1[0m" 404 -
+2022-08-01 13:20:19,762 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:20:19] "[33mGET /home HTTP/1.1[0m" 404 -
+2022-08-01 13:20:34,623 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 13:20:34,688 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 13:20:35,126 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-01 13:20:35,130 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 13:20:35,381 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 13:20:35,391 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:20:35,873 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 13:20:35,882 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:20:43,063 INFO werkzeug MainThread :  * Running on http://localhost:8180 (Press CTRL+C to quit)
+2022-08-01 13:20:43,066 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 13:20:43,658 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 13:20:43,668 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:20:58,000 INFO multiserver Thread-2 (process_request_thread) : Info level log
+2022-08-01 13:20:58,000 WARNING multiserver Thread-2 (process_request_thread) : Warning level log
+2022-08-01 13:20:58,001 DEBUG multiserver Thread-2 (process_request_thread) : Debug level logs
+2022-08-01 13:20:58,002 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:20:58] "GET /server HTTP/1.1" 200 -
+2022-08-01 13:20:58,756 INFO multiserver Thread-3 (process_request_thread) : Info level log
+2022-08-01 13:20:58,756 WARNING multiserver Thread-3 (process_request_thread) : Warning level log
+2022-08-01 13:20:58,756 DEBUG multiserver Thread-3 (process_request_thread) : Debug level logs
+2022-08-01 13:20:58,757 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:20:58] "GET /server HTTP/1.1" 200 -
+2022-08-01 13:20:58,872 INFO multiserver Thread-4 (process_request_thread) : Info level log
+2022-08-01 13:20:58,873 WARNING multiserver Thread-4 (process_request_thread) : Warning level log
+2022-08-01 13:20:58,873 DEBUG multiserver Thread-4 (process_request_thread) : Debug level logs
+2022-08-01 13:20:58,873 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:20:58] "GET /server HTTP/1.1" 200 -
+2022-08-01 13:20:59,041 INFO multiserver Thread-5 (process_request_thread) : Info level log
+2022-08-01 13:20:59,042 WARNING multiserver Thread-5 (process_request_thread) : Warning level log
+2022-08-01 13:20:59,042 DEBUG multiserver Thread-5 (process_request_thread) : Debug level logs
+2022-08-01 13:20:59,042 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:20:59] "GET /server HTTP/1.1" 200 -
+2022-08-01 13:20:59,299 INFO multiserver Thread-6 (process_request_thread) : Info level log
+2022-08-01 13:20:59,299 WARNING multiserver Thread-6 (process_request_thread) : Warning level log
+2022-08-01 13:20:59,300 DEBUG multiserver Thread-6 (process_request_thread) : Debug level logs
+2022-08-01 13:20:59,300 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:20:59] "GET /server HTTP/1.1" 200 -
+2022-08-01 13:21:02,720 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:21:02] "[33mGET /home HTTP/1.1[0m" 404 -
+2022-08-01 13:21:06,999 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:21:06] "[33mGET /home HTTP/1.1[0m" 404 -
+2022-08-01 13:21:07,169 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:21:07] "[33mGET /home HTTP/1.1[0m" 404 -
+2022-08-01 13:21:35,765 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 13:21:35,766 DEBUG again_flas Thread-2 (process_request_thread) : Debug level log
+2022-08-01 13:21:35,766 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 13:21:35,767 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:21:35] "GET /home HTTP/1.1" 200 -
+2022-08-01 13:26:57,882 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\DELL\\PycharmProjects\\reddit-comment-bot\\multiserver.py', reloading
+2022-08-01 13:26:57,945 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 13:26:58,680 INFO werkzeug MainThread :  * Running on http://localhost:8080 (Press CTRL+C to quit)
+2022-08-01 13:26:58,680 INFO werkzeug MainThread :  * Restarting with stat
+2022-08-01 13:26:58,797 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 13:26:58,813 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:26:59,416 WARNING werkzeug MainThread :  * Debugger is active!
+2022-08-01 13:26:59,432 INFO werkzeug MainThread :  * Debugger PIN: 132-018-871
+2022-08-01 13:27:14,716 INFO multiserver Thread-2 (process_request_thread) : Info level log
+2022-08-01 13:27:14,716 WARNING multiserver Thread-2 (process_request_thread) : Warning level log
+2022-08-01 13:27:14,717 DEBUG multiserver Thread-2 (process_request_thread) : Debug level logs
+2022-08-01 13:27:14,718 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:14] "GET /server HTTP/1.1" 200 -
+2022-08-01 13:27:14,858 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-08-01 13:27:18,011 INFO again_flas Thread-2 (process_request_thread) : Info level log
+2022-08-01 13:27:18,012 DEBUG again_flas Thread-2 (process_request_thread) : Debug level log
+2022-08-01 13:27:18,012 WARNING again_flas Thread-2 (process_request_thread) : Warning level log
+2022-08-01 13:27:18,012 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:18] "GET /home HTTP/1.1" 200 -
+2022-08-01 13:27:19,025 INFO again_flas Thread-3 (process_request_thread) : Info level log
+2022-08-01 13:27:19,025 DEBUG again_flas Thread-3 (process_request_thread) : Debug level log
+2022-08-01 13:27:19,026 WARNING again_flas Thread-3 (process_request_thread) : Warning level log
+2022-08-01 13:27:19,026 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:19] "GET /home HTTP/1.1" 200 -
+2022-08-01 13:27:19,335 INFO again_flas Thread-4 (process_request_thread) : Info level log
+2022-08-01 13:27:19,335 DEBUG again_flas Thread-4 (process_request_thread) : Debug level log
+2022-08-01 13:27:19,335 WARNING again_flas Thread-4 (process_request_thread) : Warning level log
+2022-08-01 13:27:19,335 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:19] "GET /home HTTP/1.1" 200 -
+2022-08-01 13:27:19,463 INFO again_flas Thread-5 (process_request_thread) : Info level log
+2022-08-01 13:27:19,463 DEBUG again_flas Thread-5 (process_request_thread) : Debug level log
+2022-08-01 13:27:19,463 WARNING again_flas Thread-5 (process_request_thread) : Warning level log
+2022-08-01 13:27:19,464 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:19] "GET /home HTTP/1.1" 200 -
+2022-08-01 13:27:19,769 INFO again_flas Thread-6 (process_request_thread) : Info level log
+2022-08-01 13:27:19,770 DEBUG again_flas Thread-6 (process_request_thread) : Debug level log
+2022-08-01 13:27:19,770 WARNING again_flas Thread-6 (process_request_thread) : Warning level log
+2022-08-01 13:27:19,770 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:19] "GET /home HTTP/1.1" 200 -
+2022-08-01 13:27:20,656 INFO again_flas Thread-7 (process_request_thread) : Info level log
+2022-08-01 13:27:20,657 DEBUG again_flas Thread-7 (process_request_thread) : Debug level log
+2022-08-01 13:27:20,657 WARNING again_flas Thread-7 (process_request_thread) : Warning level log
+2022-08-01 13:27:20,657 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [01/Aug/2022 13:27:20] "GET /home HTTP/1.1" 200 -

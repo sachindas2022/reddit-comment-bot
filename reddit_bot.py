@@ -31,6 +31,7 @@ def run_bot(r, comments_replied_to):
 
 			comments_replied_to.append(comment.id)
 			comments_replied_to.append(super)
+			comments_replied_to.append(issubclass())
 
 			with open ("comments_replied_to.txt", "a") as f:
 				f.write(comment.id + "\n")
