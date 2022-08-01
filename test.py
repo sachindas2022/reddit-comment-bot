@@ -37,8 +37,8 @@ class E():
     file1=SIO(str1_1)
     file1.read()
     print(file1)
-# obj_A=A()
-# obj_B=B()
+obj_A=A()
+obj_B=B()
 obj_C=C()
 obj_D=D()
 obj_E=E()
@@ -46,3 +46,4 @@ for Persion in (obj_C,obj_D):
     Persion.AA()
     Persion.BB()
     Persion.CC()
+
